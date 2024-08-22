@@ -1,8 +1,8 @@
 Package links:
 
-ivi-homescreen:
-ffi:
-OpenTelemetry: 
+ivi-homescreen: https://github.com/toyota-connected/ivi-homescreen
+ffi: https://pub.dev/packages/ffi
+OpenTelemetry: https://pub.dev/packages/opentelemetry
 
 
 
